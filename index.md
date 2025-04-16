@@ -4,3 +4,5 @@
 #### Header Type 4
 ##### Header Type 5
 ###### Header Type 6
+
+![Image of Wise Mystical Tree](https://i1.sndcdn.com/artworks-EC5k5lHzgHPLsyzW-Uxz2Qg-t1080x1080.jpg)
