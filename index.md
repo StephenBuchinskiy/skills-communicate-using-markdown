@@ -10,3 +10,7 @@
 ``` java
 String intro = "Hello, world!";
 ```
+
+- [x] Begin working on this assignment
+- [X] Create a task list
+- [ ] Finish this assignment
